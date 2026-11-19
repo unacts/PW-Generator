@@ -1,0 +1,9 @@
+[package]
+name = "rust-password-generator"
+version = "1.0.0"
+edition = "2021"
+description = "A fast, modern desktop password generator built in Rust"
+
+[dependencies]
+eframe = "0.29"
+rand = "0.8"
